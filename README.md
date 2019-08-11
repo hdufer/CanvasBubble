@@ -1,3 +1,3 @@
 # CanvasBubble
-With CanvasBubble i learned to draw, manipulate, animate a canvas.
+Doing CanvasBubble learned me to draw, manipulate, and animate a canvas in real time.
 ![](bubble.gif)
